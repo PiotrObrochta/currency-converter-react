@@ -1,4 +1,6 @@
-const Form = ({}) => {
+import "./style.css";
+
+const Form = () => {
     return (
         <form className="form">
             <fieldset className="form__fieldset">
@@ -32,5 +34,7 @@ const Form = ({}) => {
                 <button className="form__button">Przelicz</button>
             </p>
         </form>
-    )
-}
+    );
+};
+
+export default Form;
