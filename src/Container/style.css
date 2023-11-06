@@ -1,0 +1,20 @@
+.container {
+    padding: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+
+    background-size: 1110px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container__paragraph {
+    text-align: center;
+    background-color: rgb(48, 112, 231);
+    border-style: none;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
