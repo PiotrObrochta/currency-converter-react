@@ -14,7 +14,6 @@ function App() {
 
     setResult({
       from: selectedCurrency,
-      to: "PLN",
       resultElement: +amount / conversionRate,
     });
   };
