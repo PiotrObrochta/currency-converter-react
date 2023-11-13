@@ -36,9 +36,12 @@ const Form = ({ calculateResult }) => {
               onChange={(event) => setCurrency(event.target.value)}
             >
               {currencies.map((currency) => (
-                <option key={currency.description} value={currency.name}>
-                  {currency.name}
-                </option>
+                <option
+                key={currency.description}
+                value={currency.name}
+              >
+                {currency.name}
+              </option>
               ))}
             </select>
           </label>
