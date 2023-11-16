@@ -1,15 +1,15 @@
 const currencies = [
     {
-      name: "JPY",
-      rate: 3.32,
+      name: "EUR",
+      rate: 4.71,
     },
     {
       name: "USD",
       rate: 4.32,
     },
     {
-      name: "EUR",
-      rate: 4.71,
+      name: "JPY",
+      rate: 3.32,
     },
   ];
 
