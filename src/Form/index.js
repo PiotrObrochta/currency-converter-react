@@ -30,7 +30,9 @@ const Form = ({ calculateResult }) => {
                 </p>
                 <p>
                 <label className="form__label">
-            Waluta
+                <span className="form__labelText">
+                            Waluta 
+                        </span>
             <select
               className="form__field"
               onChange={(event) => setCurrency(event.target.value)}
