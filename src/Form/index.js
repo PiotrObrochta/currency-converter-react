@@ -34,7 +34,7 @@ const Form = ({ calculateResult }) => {
                             Waluta 
                         </span>
             <select
-              className="form__field"
+              className="form__field--select"
               onChange={(event) => setCurrency(event.target.value)}
             >
               {currencies.map((currency) => (
