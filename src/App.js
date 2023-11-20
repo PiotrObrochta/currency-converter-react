@@ -13,7 +13,7 @@ function App() {
     const conversionRate = selectedCurrency.rate;
 
     setResult({
-      from: selectedCurrency,
+      from: selectedCurrency.name,
       resultElement: +amount / conversionRate,
     });
   };
