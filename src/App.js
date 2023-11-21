@@ -4,7 +4,6 @@ import Result from "./Result";
 import currencies from "./currencies";
 import { useState } from "react";
 
-
 function App() {
   const [result, setResult] = useState(0);
 
@@ -20,8 +19,10 @@ function App() {
 
   return (
     <Container>
-        <Form calculateResult={calculateResult} />
-        <Result result={result} />
+      <Form
+        calculateResult={calculateResult}
+        setResult={setResult} />
+      <Result result={result} />
     </Container>
   );
 }
