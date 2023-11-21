@@ -1,6 +1,6 @@
 # Piotr Obrochta - Currency Converter
 ## Link ⬇
-https://piotrobrochta.github.io/todo-list-react/
+https://piotrobrochta.github.io/currency-converter-react/
 ## Description
 In this application, I practiced transferring the application from pure JavaScript to React, I had a break for several months, but after a few attempts I achieved the result I wanted. Here you can convert PLN to 3 other currencies such as USD, EUR and JPY
 
