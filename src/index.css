@@ -9,7 +9,8 @@ html {
 }
 
 body {
+  background-image: url("waluty.jpg");
+  background-size: 1110px;
   background-repeat: no-repeat;
   background-position: center;
-  font-family: 'Oswald', sans-serif;
 }
