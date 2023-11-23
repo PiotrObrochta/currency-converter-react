@@ -10,7 +10,9 @@ html {
 
 body {
   background-image: url("waluty.jpg");
-  background-size: 1110px;
-  background-repeat: no-repeat;
+  background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
 }
