@@ -4,7 +4,7 @@ import { useState } from "react";
 import Button from "../Button";
 
 const Form = ({ calculateResult }) => {
-  const [currency, setCurrency] = useState("");
+  const [currency, setCurrency] = useState("EUR");
   const [amount, setAmount] = useState("");
 
   const onFormSubmit = (event) => {
