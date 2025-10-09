@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/currency-converter-react/static/js/main.8b1f7c32.js",
+    "static/js/453.2bfef9a6.chunk.js": "/currency-converter-react/static/js/453.2bfef9a6.chunk.js",
+    "static/media/waluty.jpg": "/currency-converter-react/static/media/waluty.b5eefce2d4150fcb7de3.jpg",
+    "index.html": "/currency-converter-react/index.html",
+    "main.8b1f7c32.js.map": "/currency-converter-react/static/js/main.8b1f7c32.js.map",
+    "453.2bfef9a6.chunk.js.map": "/currency-converter-react/static/js/453.2bfef9a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8b1f7c32.js"
+  ]
+}
